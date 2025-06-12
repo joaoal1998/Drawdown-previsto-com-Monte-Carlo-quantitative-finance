@@ -20,7 +20,7 @@ Uma ferramenta Python para análise de risco de carteiras usando simulação Mon
 ### 1. Gráficos Gerados
 
 #### Análise Monte Carlo - Drawdowns Futuros
-![Monte Carlo Analysis](https://github.com/joaoal1998/Drawdown-previsto-com-Monte-Carlo/blob/main/drawdown_futuro.png)
+![Monte Carlo Analysis](https://github.com/joaoal1998/Drawdown-previsto-com-Monte-Carlo-quantitative-finance/blob/main/drawdown_futuro.png)
 
 - **Distribuição dos Drawdowns**: Histograma mostrando frequência dos drawdowns simulados
 - **Box Plot**: Visualização dos quartis e outliers
@@ -28,7 +28,7 @@ Uma ferramenta Python para análise de risco de carteiras usando simulação Mon
 - **Cenários de Risco**: Percentis P50, P75, P90, P95, P99
 
 #### Análise Histórica - Evolução da Carteira
-![Historical Analysis](https://github.com/joaoal1998/Drawdown-previsto-com-Monte-Carlo/blob/main/evolucao_carteira.png)
+![Historical Analysis](https://github.com/joaoal1998/Drawdown-previsto-com-Monte-Carlo-quantitative-finance/blob/main/evolucao_carteira.png)
 
 - **Curva de Equity**: Evolução do valor da carteira ao longo do tempo
 - **Drawdown Histórico**: Períodos de perdas e recuperação
